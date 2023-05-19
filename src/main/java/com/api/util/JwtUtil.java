@@ -6,7 +6,7 @@ import java.util.Map;
 
 import org.springframework.stereotype.Component;
 
-import com.api.beans.Login;
+import com.api.entity.Login;
 
 import io.jsonwebtoken.Jwts;
 
